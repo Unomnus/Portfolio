@@ -9,15 +9,21 @@ Body {
     padding: 70px, 0px;
 }
 p, li {
-    color: #444444;
+    color: #444;
     font-size: 14px;
 }
 /* Barra de Navegação */
 header, .navbar {
     background-color: #505050;
-    border-bottom: 1px solid #e5e5e5;
 }
 #nav-container {
-    padiing-top: 0px;
+    padding-top: 0px;
     padding-bottom: 0px;
+}
+#logo {
+    width: 100px;
+}
+.navbar-brand {
+    padding: 0px;
+    color: #fff;
 }
