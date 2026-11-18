@@ -1,0 +1,23 @@
+/* Geral */
+Body {
+    font-family: Roboto, sans-serif;
+}
+.row {
+    margin: 0px;
+}
+.container {
+    padding: 70px, 0px;
+}
+p, li {
+    color: #444444;
+    font-size: 14px;
+}
+/* Barra de Navegação */
+header, .navbar {
+    background-color: #505050;
+    border-bottom: 1px solid #e5e5e5;
+}
+#nav-container {
+    padiing-top: 0px;
+    padding-bottom: 0px;
+}
