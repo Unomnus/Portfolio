@@ -14,7 +14,7 @@ p, li {
 }
 /* Barra de Navegação */
 header, .navbar {
-    background-color: #505050;
+    background-color: #222222;
 }
 #nav-container {
     padding-top: 0px;
@@ -25,5 +25,11 @@ header, .navbar {
 }
 .navbar-brand {
     padding: 0px;
+    color: #fff;
+}
+.navbar-brand:hover {
+    color: #fff;
+}
+#navbar-links a {
     color: #fff;
 }
